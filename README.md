@@ -30,7 +30,7 @@ This project demonstrates secure file storage and backup management using Amazon
 ## 5. Project Screenshots
 
 ### 1. S3 Bucket and Uploaded Objects
-![S3 Bucket Objects](s3-bucket-Objects.png)
+![S3 Bucket Objects](s3-bucket-objects.png)
 
 ### 2. S3 Versioning
 ![S3 Versioning](S3-Versioning.png)
