@@ -28,7 +28,21 @@ This project demonstrates secure file storage and backup management using Amazon
 7. Tested file recovery by deleting an image and restoring it using its previous version.
 
 ## 5. Project Screenshots
-Screenshots will be added in the `screenshots` folder.
+
+### S3 Bucket and Uploaded Objects
+![S3 Bucket Objects](S3-Bucket-Objects.png)
+
+### S3 Versioning
+![S3 Versioning](S3-Versioning.png)
+
+### S3 Encryption
+![S3 Encryption](S3-Encryption.png)
+
+### S3 Lifecycle Rule
+![S3 Lifecycle Rule](S3-Lifecycle-Rule.png)
+
+### S3 File Recovery
+![S3 File Recovery](S3-File-Recovery.png)
 
 ## 6. Project Outcome
 Successfully configured a secure S3 storage environment, enabled file version history, tested file recovery, and implemented basic storage cleanup and access protection.
